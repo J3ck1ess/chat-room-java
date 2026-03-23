@@ -1,5 +1,5 @@
 # Java IM Chat System
-
+> A Java-based instant messaging system built with Socket and multithreading.
 ## 📌 Overview
 This project is an instant messaging system built with Java Socket and multithreading.  
 It supports core features such as group chat, private messaging, and real-time online user synchronization.
