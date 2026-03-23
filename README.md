@@ -8,6 +8,14 @@ The system simulates a real-world chat application with a clear client-server ar
 
 ---
 
+## 📌 Описание
+
+Это проект системы мгновенного обмена сообщениями, реализованный на Java с использованием Socket и многопоточности.
+
+Поддерживает групповой чат, приватные сообщения и синхронизацию списка онлайн-пользователей в реальном времени.
+
+---
+
 ## 🚀 Features
 
 - Group chat (broadcast messaging)
